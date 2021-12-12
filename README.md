@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JuanAter
+- 👀 I’m interested in learning how to code
+- 🌱 I’m currently learning Java
+- 📫 Reach me on Discord: Juan Ate#5308
